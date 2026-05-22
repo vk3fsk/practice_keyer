@@ -1,0 +1,4 @@
+.pio
+.pio-mcp-workspace
+.python-version
+.vscode/*.json
